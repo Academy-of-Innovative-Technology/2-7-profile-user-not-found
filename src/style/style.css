@@ -1,5 +1,6 @@
 body{
 	margin-top:20px;
+	background-color: #bbdee3;
 }
 .icon-box.medium {
 		font-size: 20px;
@@ -11,7 +12,7 @@ body{
 		font-size: 30px;
 		margin-bottom: 33px;
 		display: inline-block;
-		color: #ffffff;
+		color: #8f1a1a;
 		height: 65px;
 		width: 65px;
 		line-height: 65px;
